@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.todo{
+    background: rgb(104, 211, 211);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: -100%,0;
+}
+
+#noBtn{
+    position: absolute;
+}
